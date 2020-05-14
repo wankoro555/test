@@ -1,2 +1,0 @@
-shirase
-shirase2

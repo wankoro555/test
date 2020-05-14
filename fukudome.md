@@ -1,7 +1,0 @@
-## test
-
-:octocat:
-
-:bow:
-
-hogehoge

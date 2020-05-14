@@ -1,3 +1,0 @@
-##m-tanigawa
-#woooooo!
-test
